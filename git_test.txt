@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 tests
 ## modified from local Repo ##
 ## conflict test ##
 ## this is mod from Master branch
+=======
+tests
+## this is mod from feature branch
+>>>>>>> origin/feature
